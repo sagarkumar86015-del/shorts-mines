@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shorts Mines</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background: #111;
+      color: white;
+      text-align: center;
+    }
+
+    header {
+      padding: 50px 20px;
+      background: linear-gradient(135deg, #ff0000, #8b0000);
+    }
+
+    h1 {
+      font-size: 42px;
+      margin-bottom: 12px;
+    }
+
+    header p {
+      font-size: 18px;
+    }
+
+    .container {
+      padding: 35px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+
+    .card {
+      background: #1e1e1e;
+      padding: 30px 20px;
+      border-radius: 18px;
+      margin: 20px 0;
+      box-shadow: 0 5px 20px rgba(0,0,0,0.4);
+    }
+
+    .button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 14px 25px;
+      background: #ff0000;
+      color: white;
+      text-decoration: none;
+      border-radius: 30px;
+      font-weight: bold;
+    }
+
+    .button:hover {
+      background: #cc0000;
+    }
+
+    footer {
+      padding: 25px;
+      color: #aaa;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h1>🎬 Shorts Mines</h1>
+    <p>Your Daily Dose of Entertainment 🚀</p>
+  </header>
+
+  <div class="container">
+
+    <div class="card">
+      <h2>🔥 Welcome to Shorts Mines</h2>
+      <p>
+        Discover entertaining, viral and engaging short videos.
+        New content every day!
+      </p>
+
+      <a class="button"
+         href="https://youtube.com/@shorts_mines-l4w"
+         target="_blank">
+         ▶ Subscribe on YouTube
+      </a>
+    </div>
+
+    <div class="card">
+      <h2>✨ What You'll Find</h2>
+      <p>🎬 Viral Shorts</p>
+      <p>😂 Entertainment</p>
+      <p>🔥 Trending Videos</p>
+      <p>🚀 Fresh Content</p>
+    </div>
+
+  </div>
+
+  <footer>
+    © 2026 Shorts Mines. All Rights Reserved.
+  </footer>
+
+</body>
+</html>
